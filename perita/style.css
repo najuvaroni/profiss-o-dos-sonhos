@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #D4A910;
+
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #A17A15;
+    padding: 16px;
+   
+  
+}
+
+header nav a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+
+.logo{
+    height: 55px;
+    margin: 10px;
+}
+
+
+.oque{
+    color: bisque;
+    text-align: center;
+    align-items: center;
+    background-color: black;
+    height: 50px;
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+    
+    
+}
+.servidor{
+    padding: 30px;
+}
+
+.central{
+    text-align: justify;
+    padding: 20px;
+    font-size: 20px;
+}
+.primeira{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    padding: 40px;
+    background-color: #A17A15;
+}
+
+.imgperita{
+    height: 170px;
+}
+
+.apresentacao{
+    align-items: center;
+    font-size: 18px;
+}
+
+
+.segunda{
+    background-color: #A17A15;
+    padding: 40px;
+}
+
+.tec, .caminhos{
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+.h2{
+    text-align: center;
+}
+
+
+
+.central{
+    grid-template-columns: 1fr 2fr;
+}
+
+.sectionum{
+    padding: 30px;
+}
